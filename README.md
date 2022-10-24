@@ -1,6 +1,6 @@
 <div align="center">
 
-<span style="font-family:Brush Script MT; font-size:3em;">MicroRPG</span>
+# MicroRPG
 
 ![GitHub License GPL](https://img.shields.io/github/license/jaredr-branscum/MicroRPG?color=%23ff0072)
 ![GitHub Repo stars](https://img.shields.io/github/stars/jaredr-branscum/MicroRPG?color=%23FF0072)
