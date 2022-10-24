@@ -11,3 +11,7 @@ A highly customizable library for building complex RPG components.
 </div>
 
 ---
+
+## Hackathon Starter Project
+---
+Inspired and adapted from [Veracode Hackathon Project](https://github.com/jaredr-branscum/Veracode-OctoberHack2022) 
